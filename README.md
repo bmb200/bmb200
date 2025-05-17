@@ -23,10 +23,37 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/bmb200" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a></td>
-    <td><a href="https://www.youtube.com/@bmb-md" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-bmb--md-red?style=for-the-badge&logo=youtube&logoColor=white" /></a></td>
-    <td><a href="https://t.me/bmb-xmd" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-bmb--xmd-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a></td>
-    <td><a href="https://wa.me/255767862457" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" /></a></td>
+    <table style="border-collapse: separate; border-spacing: 0 10px;">
+  <tr>
+    <td style="background:#12100E; padding:5px 10px; border-radius:5px;">
+      <a href="https://github.com/bmb200" target="_blank" style="text-decoration:none; color:white; font-weight:bold; font-family:sans-serif;">
+        GitHub
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="background:#FF0000; padding:5px 10px; border-radius:5px;">
+      <a href="https://www.youtube.com/@bmb-md" target="_blank" style="text-decoration:none; color:white; font-weight:bold; font-family:sans-serif;">
+        YouTube - bmb-md
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="background:#0088cc; padding:5px 10px; border-radius:5px;">
+      <a href="https://t.me/bmb-xmd" target="_blank" style="text-decoration:none; color:white; font-weight:bold; font-family:sans-serif;">
+        Telegram - bmb-xmd
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="background:#25D366; padding:5px 10px; border-radius:5px;">
+      <a href="https://wa.me/255767862457" target="_blank" style="text-decoration:none; color:white; font-weight:bold; font-family:sans-serif;">
+        WhatsApp Chat
+      </a>
+    </td>
+  </tr>
+</table>
+    
   </tr>
 </table>
 
