@@ -5,15 +5,9 @@
 </p>
 
 ---
-
-## About Me
-
-**Hello!** I'm a passionate developer exploring the digital world through:
-- **HTML, CSS & JavaScript**
-- **PHP & Backend Logic**
-- UI/UX, Debugging, Open-Source, and More...
-
-I am the mind behind **B.M.B XMD**, a project dedicated to digital innovation and smart tech tools.
+<div align="center">
+  <img src="https://files.catbox.moe/mi4qng.jpg" width="250" style="border-radius: 20px;" />
+</div>
 
 ---
 
