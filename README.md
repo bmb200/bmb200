@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm 𝐁.𝐌.𝐁-𝐗𝐌𝐃 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
-  <img src="https://files.catbox.moe/mi4qng.jpg" width="100%"/>
+  <img src="https://files.catbox.moe/vckfip.jpg" width="100%"/>
 </div>
 
 <p align="center">
