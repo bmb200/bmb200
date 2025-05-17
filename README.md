@@ -1,89 +1,70 @@
-<h1 align="center">Welcome to B.M.B XMD</h1>
-
+<h1 align="center">Hi , I'm Ibrahima Tech <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5c9b6aa52c.gif" alt="Tech Animation" width="300"/>
+  <a href="https://github.com/ibrahimaitech"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Web+Developer;Android+Developer;Graphic+Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
----
-<div align="center">
-  <img src="https://files.catbox.moe/mi4qng.jpg" width="250" style="border-radius: 20px;" />
-</div>
+<br>
 
----
+## :sassy_man: About me
+- :school: I'm a Software Engineer
+- :technologist: I love using Software as a solution for every `Problem`
+- :student: I’m currently learning Web Development and other programming languages
+- :nerd_face: Always `learning new things`
 
-## Tech Stack
+<br>
 
+## <img src="https://cdn-icons-png.flaticon.com/512/2721/2721290.png" width="35"/> Socials
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode,linux" />
+    <a href="https://github.com/ibrahimaitech"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ibrahimaitech-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://t.me/ibrahimaitech"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-ibrahimaitech-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="https://wa.me/255769727929"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+    <a href="https://www.instagram.com/ibrahimaitech"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ibrahimaitech-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
----
+<br>
 
-## Connect With Me
-
-<table>
-  <tr>
-    <table style="border-collapse: separate; border-spacing: 0 10px;">
-  <tr>
-    <td style="background:#12100E; padding:5px 10px; border-radius:5px;">
-      <a href="https://github.com/bmb200" target="_blank" style="text-decoration:none; color:white; font-weight:bold; font-family:sans-serif;">
-        GitHub
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="background:#FF0000; padding:5px 10px; border-radius:5px;">
-      <a href="https://www.youtube.com/@bmb-md" target="_blank" style="text-decoration:none; color:white; font-weight:bold; font-family:sans-serif;">
-        YouTube - bmb-md
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="background:#0088cc; padding:5px 10px; border-radius:5px;">
-      <a href="https://t.me/bmb-xmd" target="_blank" style="text-decoration:none; color:white; font-weight:bold; font-family:sans-serif;">
-        Telegram - bmb-xmd
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="background:#25D366; padding:5px 10px; border-radius:5px;">
-      <a href="https://wa.me/255767862457" target="_blank" style="text-decoration:none; color:white; font-weight:bold; font-family:sans-serif;">
-        WhatsApp Chat
-      </a>
-    </td>
-  </tr>
-</table>
-    
-  </tr>
-</table>
-
----
-
-## Projects & Ideas
-
-- **B.M.B-XMD VERIFY** - A GitHub authentication tool for beginners.
-- **PHP Form Processors** - Smart forms with validations.
-- **Custom HTML Templates** - Beautiful responsive layouts.
-
-> **More projects coming soon...**
-
----
-
+## 🛠️ My Skills
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,bootstrap,git,github,figma,androidstudio,vscode,py,java" />
 </p>
 
----
+<br>
 
-### Made with passion by **B.M.B XMD**
+## 📊 Github Stats
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimaitech&theme=dark&hide_border=true" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ibrahimaitech&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
+</p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimaitech&theme=dark&hide_border=true&layout=compact" />
+</p>
 
+<br>
 
+## ✍️ Quote of the Day
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+<br>
+
+## 💻 WakaTime Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ibrahimaitech&theme=dark&hide_border=true"/>
+</p>
+
+<br><br>
 
 <div align="center">
-  <a href="https://files.catbox.moe/pcv886.mp4" target="_blank">
-    <img src="https://files.catbox.moe/30gp73.jpg" width="300" style="border-radius: 20px;" alt="Watch Video" />
-  </a>
-  <br/>
-  <b>Click the image above to watch the demo!</b>
+  <img src="https://activity-graph.herokuapp.com/graph?username=ibrahimaitech&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
+
+<br><br>
+
+<h3 align="center">Support Me By Starring My Repositories</h3>
+<p align="center">
+    <img src="https://img.shields.io/github/stars/ibrahimaitech?style=social"/>
+</p>
