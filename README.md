@@ -1,75 +1,18 @@
-<h1 align="center">Hi , I'm 𝐁.𝐌.𝐁-𝐗𝐌𝐃 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 💫 𝐁.𝐌.𝐁-𝐗𝐌𝐃:
+👨‍💻 Frontend Web Developer<br>⚡ Tech Content Creator<br>💼 Open To Job Opportunities<br>🌎 rammaheshwari.com <br>
 
-<div align="center">
-  <img src="https://files.catbox.moe/vckfip.jpg" width="100%"/>
-</div>
 
-<p align="center">
-  <a href="https://github.com/bmb200"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Web+Developer;Android+Developer;Graphic+Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+## 🌐 Socials:
+[![github](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/in/bmb200) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bmb_xmd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bmb_xmd) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bmb_md) 
 
-<br>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rammcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rammcodes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rammcodes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## :sassy_man: About me
-- :school: I'm a Software Engineer  
-- :technologist: I love using Software as a solution for every `Problem`  
-- :student: I’m currently learning Web Development and other programming languages  
-- :nerd_face: Always `learning new things`
+---
+[![](https://visitcount.itsvg.in/api?id=rammcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
-
-## <img src="https://cdn-icons-png.flaticon.com/512/2721/2721290.png" width="35"/> Socials
-<p align="center">
-    <a href="https://github.com/bmb200"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-bmb200-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="https://t.me/bmb_xmd"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-bmb-xmd-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://wa.me/255767862457"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-    <a href="https://www.instagram.com/bmbxmd"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bmbxmd-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
-<br>
-
-## 🛠️ My Skills
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,bootstrap,git,github,figma,androidstudio,vscode,py,java" />
-</p>
-
-<br>
-
-## 📊 Github Stats
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmb200&theme=dark&hide_border=true" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bmb200&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmb200&theme=dark&hide_border=true&layout=compact" />
-</p>
-
-<br>
-
-## ✍️ Quote of the Day
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
-
-<br>
-
-## 💻 WakaTime Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bmb200&theme=dark&hide_border=true"/>
-</p>
-
-<br><br>
-
-<div align="center">
-  <img src="https://files.catbox.moe/mi4qng.jpg" width="100%"/>
-</div>
-
-<br><br>
-
-<h3 align="center">Support Me By Starring My Repositories</h3>
-<p align="center">
-    <img src="https://img.shields.io/github/stars/bmb200?style=social"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
