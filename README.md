@@ -1,5 +1,5 @@
 # 💫 𝐁.𝐌.𝐁-𝐗𝐌𝐃:
-👨‍💻 Frontend Web Developer<br>⚡ Tech Content Creator<br>💼 Open To Job Opportunities<br>🌎 rammaheshwari.com <br>
+👨‍💻 Frontend Web Developer<br>⚡ Tech Content Creator<br>💼 Open To Job Opportunities<br>🌎 bmb200.com <br>
 
 
 ## 🌐 Socials:
